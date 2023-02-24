@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @iam-in
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... python, Django, NestJS, PHP, Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔞 Hi, I’m @iam-in
+- 🌀 I’m interested in space 
+- 💲 Stack JS, Vue3, PHP, Laravel, CSS, HTML
+- 📫 How to reach me give me fire
 
 <!---
 iam-in/iam-in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
